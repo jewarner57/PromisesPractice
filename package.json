@@ -1,8 +1,12 @@
 {
-    "name": "promises-challenges",
-    "scripts": {},
-    "dependencies": {
-        "request": "^2.88.2"
-    },
-    "devDependencies": {}
+  "name": "promises-challenges",
+  "scripts": {
+    "c1": "node ./challenges/challenge1.js",
+    "c2": "node ./challenges/challenge2.js",
+    "c3": "node ./challenges/challenge3.js"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
 }
